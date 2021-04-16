@@ -14,6 +14,8 @@
  * Learn more in https://angular.io/guide/browser-support
  */
 
+import 'core-js'; // npm i core-js --save
+
 /***************************************************************************************************
  * BROWSER POLYFILLS
  */
